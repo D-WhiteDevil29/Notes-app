@@ -1,0 +1,43 @@
+.color
+{
+    /* background-image: linear-gradient(to bottom right, rgb(255, 0, 0) ,yellow 100%, rgb(255, 169, 9)); */
+    background-image: linear-gradient(
+    to bottom right,
+    rgb(140, 20, 253),
+    rgb(255, 55, 149),
+    rgb(178, 197, 248),
+    aliceblue
+  );
+  margin: 4px;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(10, 10, 70);
+    font-size: 30px;
+    font-family: serif;
+    box-shadow: 0 0 6px aliceblue;
+    border-radius: 8px;
+}
+.color:hover
+{
+    box-shadow: 0 0 30px aliceblue;
+    transition: 0.3s ease;
+    color: rgb(10, 10, 70);
+}
+.Sort
+{
+    font-size: 20px;
+    color: aliceblue;
+}
+.bg
+{
+    background-color: rgb(1, 1, 31);
+    border-bottom: 1px solid white;
+    position: sticky;
+    z-index: 999;
+}
+
+.Flexbox
+{
+    display: flex;
+    flex-wrap: wrap;
+}
