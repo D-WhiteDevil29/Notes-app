@@ -32,7 +32,7 @@ const Home = () => {
           <br/>
           No Notes! Create new one.
         </h1>
-        
+       
       :
       data.map((item,i)=>(
         <Singlenote key={item.id} item={item}/>
