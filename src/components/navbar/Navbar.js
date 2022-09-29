@@ -60,7 +60,7 @@ const Navbar = ({setShowModal,data,setData}) => {
     <>
    <nav className="navbar navbar-expand-lg navbar-dark bg ">
   <div className="container-fluid">
-    <a className="color" href="https://d-whitedevil29.github.io/Notes-app/">My Note <BookOpen/></a>
+    <a className="color" href="https://d-whitedevil29.github.io/Notes-app/ ">My Note <BookOpen/></a>
     <button className="navbar-toggler px-2 py-1 rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon" />
     </button>
