@@ -48,10 +48,13 @@ const Navbar = ({setShowModal,data,setData}) => {
       window.location.reload();
     }
   }
-
+  const restart = ()=>
+  {
+    window.location.href="https://d-whitedevil29.github.io/Notes-app/";
+  }
   const Reload = ()=>
   {
-    window.location.reload();
+    window.location.Reload();
     return;
   }
 
