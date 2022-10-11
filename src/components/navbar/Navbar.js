@@ -50,7 +50,7 @@ const Navbar = ({setShowModal,data,setData}) => {
   }
   const restart = ()=>
   {
-    window.location.href="https://d-whitedevil29.github.io/Notes-app/";
+    window.location.assign("https://d-whitedevil29.github.io/Notes-app/");
   }
   const Reload = ()=>
   {
