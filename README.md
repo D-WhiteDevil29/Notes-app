@@ -1,5 +1,11 @@
 ## Visit Notes App here - 
 https://d-whitedevil29.github.io/Notes-app/
+## About this application
+
+This is a sample application to manage daily task notes. It consists of features like creation of notes with real-time updation and deletion. Created with user attractive UI designs. 
+
+## Tech Stack Used 
+
 
 ## App Visuals 
 
